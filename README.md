@@ -27,7 +27,7 @@ Key configuration:
 • Applied to all accounts in the organization
 • Logs stored in central S3 bucket: daniel-org-cloudtrail-logs
 • Management events: Read/Write
-• Data events: optional (S3 enabled later)
+• Data events: S3 enabled later
 
 Benefits
 
