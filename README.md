@@ -138,14 +138,6 @@ This structure aligns with:
 
 Screenshots
 
-Create a folder called /screenshots and upload your images.
-
-Then embed them like this:
-
-![Organization Structure](screenshots/org-structure.png)
-![CloudTrail](screenshots/cloudtrail.png)
-![SCPs](screenshots/scp-list.png)
-![AccessDenied Test](screenshots/access-denied.png)
 
 
 ---
