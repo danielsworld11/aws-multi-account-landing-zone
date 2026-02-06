@@ -137,7 +137,12 @@ This structure aligns with:
 
 
 Screenshots
+## Screenshots
 
+![Organization Structure](screenshots/org-structure.png)
+![CloudTrail](screenshots/cloudtrail.png)
+![SCPs](screenshots/scp-list.png)
+![AccessDenied Test](screenshots/access-denied.png)
 
 
 ---
